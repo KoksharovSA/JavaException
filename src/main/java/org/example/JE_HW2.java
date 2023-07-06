@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class JE_HW2 {
     public static void main(String[] args) {
-//        floatDigit();
+        floatDigit();
         task2(new int[]{1,2,3,4,5,6,7,8}, 2,2);
         task2(new int[]{1,2,3,4,5,6,7,8}, 9,2);
         task2(new int[]{1,2,3,4,5,6,7,8}, 9,0);
